@@ -3,6 +3,11 @@
 All files created in Eagle CAD 6.5.0.  All boards believed but not guaranteed to be correct - **use at your own risk**.
 
 
+## da15-to-de15-passive
+
+A compact adapter board for passive conversion of Macintosh video to VGA video, with DIP switches to set the behavior of the ID lines and a guide on the back for how to do so.
+
+
 ## hdi20-floppy
 
 An adapter board for use with a cable stolen or borrowed from a PowerBook 100 floppy drive, allowing the PowerBook 100 to be connected to a device such as a [TashTwenty](https://github.com/lampmerchant/tashtwenty) or Floppy Emu.
